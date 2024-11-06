@@ -1,0 +1,10 @@
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\bin\Debug\netcoreapp1.1\CrudProduto.deps.json
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\bin\Debug\netcoreapp1.1\CrudProduto.runtimeconfig.json
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\bin\Debug\netcoreapp1.1\CrudProduto.runtimeconfig.dev.json
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\bin\Debug\netcoreapp1.1\CrudProduto.dll
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\bin\Debug\netcoreapp1.1\CrudProduto.pdb
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\obj\Debug\netcoreapp1.1\CrudProduto.csprojAssemblyReference.cache
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\obj\Debug\netcoreapp1.1\CrudProduto.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\obj\Debug\netcoreapp1.1\CrudProduto.AssemblyInfo.cs
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\obj\Debug\netcoreapp1.1\CrudProduto.dll
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\obj\Debug\netcoreapp1.1\CrudProduto.pdb

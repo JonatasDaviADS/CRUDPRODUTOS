@@ -1,0 +1,9 @@
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\bin\Debug\net48\CrudProduto.runtimeconfig.json
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\bin\Debug\net48\CrudProduto.runtimeconfig.dev.json
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\obj\Debug\net48\CrudProduto.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\obj\Debug\net48\CrudProduto.AssemblyInfo.cs
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\bin\Debug\net48\CrudProduto.exe
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\bin\Debug\net48\CrudProduto.pdb
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\obj\Debug\net48\CrudProduto.csprojAssemblyReference.cache
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\obj\Debug\net48\CrudProduto.exe
+C:\Users\Jonatas\source\repos\CrudProduto\CrudProduto\obj\Debug\net48\CrudProduto.pdb
